@@ -1,0 +1,19 @@
+.app{
+  margin-left: 30%;
+  margin-top: 5%;
+}
+
+.copy{
+  margin-bottom: 0;
+}
+
+.content{
+  width:300px;
+  height:40px;
+  background:white;
+}
+
+.card{
+  width: 200px;
+  height: 200px;
+}
